@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Nicholas Chang.  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-
 - 👨‍💻 I am a technology enthusiast with interest in cloud technologies and Infrastructure.
 - 📚 I’m currently learning everything about Azure services 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
